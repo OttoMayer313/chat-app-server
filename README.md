@@ -7,13 +7,11 @@ cd chat-app-api
 npm install nodemon -g
 
 npm install
-```
 
 <br/>
 
 Create a config.env file in root and add some env variables.
 
-```
 NODE_ENV=development
 DB_STRING=your mongodb database string
 
@@ -35,11 +33,9 @@ PUSHER_APP_ID=your pusher app id
 PUSHER_KEY=your pusher app key
 PUSHER_SECRET_KEY=your pusher secret key
 PUSHER_CLUSTER=your pusher app cluster
-```
 
 <br>
 
 Now you are done and can start your development server
 
-```
 npm run dev
