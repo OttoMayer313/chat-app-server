@@ -9,7 +9,7 @@ npm install nodemon -g
 npm install
 ```
 
-<br>
+<br/>
 
 Create a config.env file in root and add some env variables.
 
