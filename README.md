@@ -1,21 +1,28 @@
-### chat-server
+<!-- intro -->
+<h1>Chat Server</h1>
 
 <br/>
+
 git clone https://github.com/ottomayer313/chat-server.git
 
 <br/>
+
 cd chat-app-api
 
 <br/>
+
 npm install nodemon -g
 
 <br/>
+
 npm install
 
 <br/>
+
 Create a config.env file in root and add some env variables.
 
 <br/>
+
 NODE_ENV=development
 DB_STRING=your mongodb database string
 
