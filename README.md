@@ -1,5 +1,4 @@
 # chat-server
-A node server to provide chat api for client app.
 
 git clone https://github.com/ottomayer313/chat-server.git
 
