@@ -1,4 +1,4 @@
-# chat-server
+<h2>chat-server</h2>
 
 git clone https://github.com/ottomayer313/chat-server.git
 
@@ -12,9 +12,11 @@ npm install
 
 Create a config.env file in root and add some env variables.
 
+<br/>
+
 NODE_ENV=development
 DB_STRING=your mongodb database string
-
+<br/>
 // I have used sendgrid to send emails,
 // create a sendgrid account and after your setup is done add your credentials here
 
