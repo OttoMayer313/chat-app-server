@@ -21,6 +21,7 @@ SENDGRID_USERNAME=your sendgrid username <br/>
 SENDGRID_PW=your sendgrid password <br/>
 EMAIL_FROM=email from which you are sending mails. <br/>
 
+
 JWT_SECRET=any random string you want (preferred min 32 strings) <br/>
 JWT_EXPIRES_IN=expiry date for your jwt tokens <br/>
 JWT_COOKIE_EXPIRES_IN=expiry date for your cookies <br/>
